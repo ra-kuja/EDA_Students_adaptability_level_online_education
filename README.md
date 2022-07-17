@@ -1,2 +1,2 @@
-# EDA_Students_adaptability_level_online_education
+# EDA_Students_Flexibility_Online_Learning
 Repository ini menjelaskan
